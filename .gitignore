@@ -35,5 +35,3 @@ build/
 # MAC
 .DS_Store
 
-*mvn
-.mvn
